@@ -1,0 +1,739 @@
+shc_state,shc_dist,h_state,h_dist,score
+sikkim,pakyong,sikkim,east district,10
+sikkim,mangan,sikkim,east district,11
+sikkim,gangtok,sikkim,east district,20
+sikkim,namchi,sikkim,east district,21
+andhra pradesh,dr b r ambedkar konaseema,andhra pradesh,anantapur,24
+sikkim,gyalshing,sikkim,east district,27
+sikkim,soreng,sikkim,south district,30
+rajasthan,deeg,rajasthan,dungarpur,31
+chhattisgarh,manendragarh chirmiri bharatpur m c b,chhattisgarh,janjgir champa,31
+arunachal pradesh,shi yomi,arunachal pradesh,east kameng,32
+telangana,mulugu,telangana,mahabubnagar,33
+chhattisgarh,mohla manpur ambagarh chouki,chhattisgarh,baloda bazar,35
+assam,sribhumi,assam,dibrugarh,35
+tamil nadu,thoothukkudi,tamil nadu,thiruvarur,36
+rajasthan,kotputli behror,rajasthan,dholpur,36
+andhra pradesh,tirupati,andhra pradesh,visakhapatanam,36
+andhra pradesh,alluri sitharama raju,andhra pradesh,krishna,36
+andhra pradesh,eluru,andhra pradesh,guntur,36
+nagaland,tseminyu,nagaland,tuensang,38
+nagaland,niuland,nagaland,longleng,40
+maharashtra,chhatrapati sambhajinagar,maharashtra,ahmednagar,40
+chhattisgarh,gaurela pendra marwahi,chhattisgarh,baloda bazar,41
+assam,south salmara mancachar,assam,cachar,41
+chhattisgarh,khairagarh chhuikhadan gandai,chhattisgarh,gariyaband,41
+andhra pradesh,sri sathya sai,andhra pradesh,visakhapatanam,43
+tamil nadu,ranipet,tamil nadu,madurai,43
+nagaland,shamator,nagaland,kohima,43
+andhra pradesh,parvathipuram manyam,andhra pradesh,prakasam,43
+rajasthan,didwana kuchaman,rajasthan,hanumangarh,44
+nagaland,chumoukedima,nagaland,kohima,44
+assam,biswanath,assam,sivasagar,44
+andhra pradesh,annamayya,andhra pradesh,anantapur,44
+nagaland,meluri,nagaland,dimapur,46
+chhattisgarh,sakti,chhattisgarh,dhamtari,46
+arunachal pradesh,leparada,arunachal pradesh,kra daadi,47
+chhattisgarh,uttar bastar kanker,chhattisgarh,bastar,48
+andhra pradesh,bapatla,andhra pradesh,visakhapatanam,48
+andhra pradesh,palnadu,andhra pradesh,anantapur,50
+assam,hojai,assam,dhemaji,50
+madhya pradesh,niwari,madhya pradesh,chhindwara,50
+andhra pradesh,nandyal,andhra pradesh,anantapur,50
+rajasthan,khairthal tijara,rajasthan,bhilwara,50
+madhya pradesh,mauganj,madhya pradesh,sagar,50
+arunachal pradesh,kamle,arunachal pradesh,east kameng,50
+andhra pradesh,sri potti sriramulu nellore,andhra pradesh,spsr nellore,51
+andhra pradesh,anakapalli,andhra pradesh,anantapur,53
+mizoram,hnahthial,mizoram,aizawl,53
+maharashtra,dharashiv,maharashtra,nashik,53
+telangana,hanumakonda,telangana,nalgonda,53
+andhra pradesh,kakinada,andhra pradesh,krishna,53
+west bengal,dakshin dinajpur,west bengal,dinajpur uttar,53
+assam,charaideo,assam,cachar,53
+chhattisgarh,sarangarh bilaigarh,chhattisgarh,raigarh,54
+uttar pradesh,kheri,uttar pradesh,deoria,55
+assam,bajali,assam,baksa,55
+chhattisgarh,dakshin bastar dantewada,chhattisgarh,dantewada,55
+nagaland,noklak,nagaland,wokha,55
+tamil nadu,kallakurichi,tamil nadu,kanniyakumari,56
+punjab,malerkotla,punjab,faridkot,56
+west bengal,uttar dinajpur,west bengal,dinajpur uttar,57
+tamil nadu,chengalpattu,tamil nadu,nagapattinam,58
+west bengal,paschim medinipur,west bengal,medinipur east,58
+arunachal pradesh,pakke kessang,arunachal pradesh,upper siang,58
+assam,tamulpur,assam,lakhimpur,59
+andhra pradesh,y s r kadapa,andhra pradesh,y s r,59
+madhya pradesh,narmadapuram,madhya pradesh,mandsaur,60
+chhattisgarh,balrampur ramanujganj,chhattisgarh,balrampur,60
+gujarat,dahod,gujarat,dohad,60
+rajasthan,salumbar,rajasthan,alwar,62
+madhya pradesh,khargone west nimar,madhya pradesh,east nimar,62
+west bengal,purba medinipur,west bengal,medinipur east,62
+uttar pradesh,amroha,uttar pradesh,ayodhya,62
+west bengal,north 24 parganas,west bengal,24 paraganas north,63
+west bengal,south 24 parganas,west bengal,24 paraganas north,63
+chhattisgarh,balodabazar bhatapara,chhattisgarh,baloda bazar,67
+telangana,narayanpet,telangana,suryapet,67
+mizoram,saitual,mizoram,saiha,67
+maharashtra,ahilyanagar,maharashtra,ahmednagar,67
+madhya pradesh,maihar,madhya pradesh,umaria,67
+tamil nadu,mayiladuthurai,tamil nadu,madurai,67
+andhra pradesh,ntr,andhra pradesh,guntur,67
+rajasthan,balotra,rajasthan,baran,67
+tamil nadu,tenkasi,tamil nadu,theni,67
+mizoram,khawzawl,mizoram,aizawl,71
+madhya pradesh,pandhurna,madhya pradesh,panna,71
+madhya pradesh,khandwa east nimar,madhya pradesh,east nimar,71
+telangana,warangal,telangana,warangal rural,73
+karnataka,bengaluru south,karnataka,bengaluru rural,73
+rajasthan,beawar,rajasthan,alwar,73
+rajasthan,phalodi,rajasthan,pali,73
+karnataka,vijayanagara,karnataka,ramanagara,73
+west bengal,paschim bardhaman,west bengal,purba bardhaman,75
+arunachal pradesh,lower siang,arunachal pradesh,west siang,76
+puducherry,puducherry,puducherry,pondicherry,76
+tamil nadu,tirupathur,tamil nadu,tiruppur,78
+mizoram,siaha,mizoram,saiha,80
+madhya pradesh,narsimhapur,madhya pradesh,narsinghpur,82
+andhra pradesh,ananthapuramu,andhra pradesh,anantapur,82
+meghalaya,eastern west khasi hills,meghalaya,south west khasi hills,83
+assam,west karbi anglong,assam,karbi anglong,84
+chhattisgarh,kabeerdham,chhattisgarh,kabirdham,84
+tamil nadu,kancheepuram,tamil nadu,kanchipuram,87
+gujarat,ahmedabad,gujarat,ahmadabad,89
+punjab,ferozepur,punjab,firozepur,89
+uttar pradesh,shrawasti,uttar pradesh,shravasti,89
+gujarat,dangs,gujarat,dang,89
+tamil nadu,viluppuram,tamil nadu,villupuram,90
+odisha,angul,odisha,anugul,91
+west bengal,malda,west bengal,maldah,91
+uttar pradesh,sant kabir nagar,uttar pradesh,sant kabeer nagar,91
+odisha,jajpur,odisha,jajapur,92
+west bengal,cooch behar,west bengal,coochbehar,95
+karnataka,davanagere,karnataka,davangere,95
+uttar pradesh,mahrajganj,uttar pradesh,maharajganj,95
+uttar pradesh,kushinagar,uttar pradesh,kushi nagar,95
+uttar pradesh,bara banki,uttar pradesh,barabanki,95
+uttarakhand,uttarkashi,uttarakhand,uttar kashi,95
+haryana,charkhi dadri,haryana,charki dadri,96
+uttarakhand,rudraprayag,uttarakhand,rudra prayag,96
+andhra pradesh,visakhapatnam,andhra pradesh,visakhapatanam,96
+uttarakhand,udham singh nagar,uttarakhand,udam singh nagar,97
+uttar pradesh,siddharthnagar,uttar pradesh,siddharth nagar,97
+karnataka,chamarajanagar,karnataka,chamarajanagara,97
+himachal pradesh,lahaul and spiti,himachal pradesh,lahul and spiti,97
+telangana,wanaparthy,telangana,wanaparthy,100
+telangana,vikarabad,telangana,vikarabad,100
+telangana,suryapet,telangana,suryapet,100
+telangana,siddipet,telangana,siddipet,100
+telangana,sangareddy,telangana,sangareddy,100
+telangana,ranga reddy,telangana,ranga reddy,100
+telangana,rajanna sircilla,telangana,rajanna sircilla,100
+telangana,peddapalli,telangana,peddapalli,100
+telangana,nizamabad,telangana,nizamabad,100
+telangana,nirmal,telangana,nirmal,100
+telangana,nalgonda,telangana,nalgonda,100
+telangana,nagarkurnool,telangana,nagarkurnool,100
+telangana,medchal malkajgiri,telangana,medchal malkajgiri,100
+telangana,medak,telangana,medak,100
+andhra pradesh,kurnool,andhra pradesh,kurnool,100
+andhra pradesh,krishna,andhra pradesh,krishna,100
+andhra pradesh,guntur,andhra pradesh,guntur,100
+andhra pradesh,east godavari,andhra pradesh,east godavari,100
+andhra pradesh,chittoor,andhra pradesh,chittoor,100
+andaman and nicobar islands,south andamans,andaman and nicobar islands,south andamans,100
+andaman and nicobar islands,north and middle andaman,andaman and nicobar islands,north and middle andaman,100
+goa,south goa,goa,south goa,100
+goa,north goa,goa,north goa,100
+chhattisgarh,surguja,chhattisgarh,surguja,100
+chhattisgarh,surajpur,chhattisgarh,surajpur,100
+chhattisgarh,sukma,chhattisgarh,sukma,100
+chhattisgarh,rajnandgaon,chhattisgarh,rajnandgaon,100
+chhattisgarh,raipur,chhattisgarh,raipur,100
+chhattisgarh,raigarh,chhattisgarh,raigarh,100
+chhattisgarh,narayanpur,chhattisgarh,narayanpur,100
+chhattisgarh,mungeli,chhattisgarh,mungeli,100
+chhattisgarh,mahasamund,chhattisgarh,mahasamund,100
+gujarat,junagadh,gujarat,junagadh,100
+gujarat,jamnagar,gujarat,jamnagar,100
+gujarat,gir somnath,gujarat,gir somnath,100
+gujarat,gandhinagar,gujarat,gandhinagar,100
+gujarat,devbhumi dwarka,gujarat,devbhumi dwarka,100
+gujarat,chhotaudepur,gujarat,chhotaudepur,100
+gujarat,botad,gujarat,botad,100
+gujarat,bhavnagar,gujarat,bhavnagar,100
+gujarat,bharuch,gujarat,bharuch,100
+gujarat,banas kantha,gujarat,banas kantha,100
+gujarat,arvalli,gujarat,arvalli,100
+gujarat,anand,gujarat,anand,100
+gujarat,amreli,gujarat,amreli,100
+gujarat,vadodara,gujarat,vadodara,100
+gujarat,tapi,gujarat,tapi,100
+gujarat,surendranagar,gujarat,surendranagar,100
+gujarat,surat,gujarat,surat,100
+gujarat,sabar kantha,gujarat,sabar kantha,100
+gujarat,rajkot,gujarat,rajkot,100
+gujarat,porbandar,gujarat,porbandar,100
+gujarat,patan,gujarat,patan,100
+gujarat,panch mahals,gujarat,panch mahals,100
+gujarat,navsari,gujarat,navsari,100
+gujarat,narmada,gujarat,narmada,100
+gujarat,morbi,gujarat,morbi,100
+gujarat,mahisagar,gujarat,mahisagar,100
+gujarat,mahesana,gujarat,mahesana,100
+gujarat,kheda,gujarat,kheda,100
+gujarat,kachchh,gujarat,kachchh,100
+haryana,palwal,haryana,palwal,100
+haryana,nuh,haryana,nuh,100
+haryana,mahendragarh,haryana,mahendragarh,100
+haryana,kurukshetra,haryana,kurukshetra,100
+haryana,karnal,haryana,karnal,100
+haryana,kaithal,haryana,kaithal,100
+haryana,jind,haryana,jind,100
+haryana,jhajjar,haryana,jhajjar,100
+haryana,hisar,haryana,hisar,100
+haryana,gurugram,haryana,gurugram,100
+haryana,fatehabad,haryana,fatehabad,100
+haryana,faridabad,haryana,faridabad,100
+haryana,bhiwani,haryana,bhiwani,100
+haryana,ambala,haryana,ambala,100
+gujarat,valsad,gujarat,valsad,100
+himachal pradesh,shimla,himachal pradesh,shimla,100
+himachal pradesh,mandi,himachal pradesh,mandi,100
+himachal pradesh,kullu,himachal pradesh,kullu,100
+himachal pradesh,kinnaur,himachal pradesh,kinnaur,100
+himachal pradesh,kangra,himachal pradesh,kangra,100
+himachal pradesh,hamirpur,himachal pradesh,hamirpur,100
+himachal pradesh,chamba,himachal pradesh,chamba,100
+himachal pradesh,bilaspur,himachal pradesh,bilaspur,100
+haryana,yamunanagar,haryana,yamunanagar,100
+haryana,sonipat,haryana,sonipat,100
+haryana,sirsa,haryana,sirsa,100
+haryana,rohtak,haryana,rohtak,100
+haryana,rewari,haryana,rewari,100
+haryana,panipat,haryana,panipat,100
+haryana,panchkula,haryana,panchkula,100
+jammu and kashmir,pulwama,jammu and kashmir,pulwama,100
+jammu and kashmir,poonch,jammu and kashmir,poonch,100
+jammu and kashmir,kupwara,jammu and kashmir,kupwara,100
+jammu and kashmir,kulgam,jammu and kashmir,kulgam,100
+jammu and kashmir,kishtwar,jammu and kashmir,kishtwar,100
+jammu and kashmir,kathua,jammu and kashmir,kathua,100
+jammu and kashmir,jammu,jammu and kashmir,jammu,100
+jammu and kashmir,ganderbal,jammu and kashmir,ganderbal,100
+jammu and kashmir,doda,jammu and kashmir,doda,100
+jammu and kashmir,budgam,jammu and kashmir,budgam,100
+jammu and kashmir,baramulla,jammu and kashmir,baramulla,100
+jammu and kashmir,bandipora,jammu and kashmir,bandipora,100
+jammu and kashmir,anantnag,jammu and kashmir,anantnag,100
+himachal pradesh,una,himachal pradesh,una,100
+himachal pradesh,solan,himachal pradesh,solan,100
+himachal pradesh,sirmaur,himachal pradesh,sirmaur,100
+jharkhand,godda,jharkhand,godda,100
+jharkhand,giridih,jharkhand,giridih,100
+jharkhand,garhwa,jharkhand,garhwa,100
+jharkhand,east singhbum,jharkhand,east singhbum,100
+jharkhand,dumka,jharkhand,dumka,100
+jharkhand,dhanbad,jharkhand,dhanbad,100
+jharkhand,deoghar,jharkhand,deoghar,100
+jharkhand,chatra,jharkhand,chatra,100
+jharkhand,bokaro,jharkhand,bokaro,100
+jammu and kashmir,udhampur,jammu and kashmir,udhampur,100
+jammu and kashmir,srinagar,jammu and kashmir,srinagar,100
+jammu and kashmir,shopian,jammu and kashmir,shopian,100
+jammu and kashmir,samba,jammu and kashmir,samba,100
+jammu and kashmir,reasi,jammu and kashmir,reasi,100
+jammu and kashmir,ramban,jammu and kashmir,ramban,100
+jammu and kashmir,rajouri,jammu and kashmir,rajouri,100
+karnataka,bagalkote,karnataka,bagalkote,100
+jharkhand,west singhbhum,jharkhand,west singhbhum,100
+jharkhand,simdega,jharkhand,simdega,100
+jharkhand,saraikela kharsawan,jharkhand,saraikela kharsawan,100
+jharkhand,sahebganj,jharkhand,sahebganj,100
+jharkhand,ranchi,jharkhand,ranchi,100
+jharkhand,ramgarh,jharkhand,ramgarh,100
+jharkhand,palamu,jharkhand,palamu,100
+jharkhand,pakur,jharkhand,pakur,100
+jharkhand,lohardaga,jharkhand,lohardaga,100
+jharkhand,latehar,jharkhand,latehar,100
+jharkhand,koderma,jharkhand,koderma,100
+jharkhand,khunti,jharkhand,khunti,100
+jharkhand,jamtara,jharkhand,jamtara,100
+jharkhand,hazaribagh,jharkhand,hazaribagh,100
+jharkhand,gumla,jharkhand,gumla,100
+karnataka,haveri,karnataka,haveri,100
+karnataka,hassan,karnataka,hassan,100
+karnataka,gadag,karnataka,gadag,100
+karnataka,dharwad,karnataka,dharwad,100
+karnataka,dakshina kannada,karnataka,dakshina kannada,100
+karnataka,chitradurga,karnataka,chitradurga,100
+karnataka,chikkamagaluru,karnataka,chikkamagaluru,100
+karnataka,chikkaballapura,karnataka,chikkaballapura,100
+karnataka,bidar,karnataka,bidar,100
+karnataka,bengaluru urban,karnataka,bengaluru urban,100
+karnataka,bengaluru rural,karnataka,bengaluru rural,100
+karnataka,belagavi,karnataka,belagavi,100
+karnataka,ballari,karnataka,ballari,100
+chhattisgarh,korea,chhattisgarh,korea,100
+chhattisgarh,korba,chhattisgarh,korba,100
+chhattisgarh,kondagaon,chhattisgarh,kondagaon,100
+chhattisgarh,jashpur,chhattisgarh,jashpur,100
+chhattisgarh,janjgir champa,chhattisgarh,janjgir champa,100
+chhattisgarh,gariyaband,chhattisgarh,gariyaband,100
+chhattisgarh,durg,chhattisgarh,durg,100
+chhattisgarh,dhamtari,chhattisgarh,dhamtari,100
+chhattisgarh,bilaspur,chhattisgarh,bilaspur,100
+chhattisgarh,bijapur,chhattisgarh,bijapur,100
+chhattisgarh,bemetara,chhattisgarh,bemetara,100
+chhattisgarh,bastar,chhattisgarh,bastar,100
+ladakh,leh ladakh,ladakh,leh ladakh,100
+ladakh,kargil,ladakh,kargil,100
+karnataka,yadgir,karnataka,yadgir,100
+karnataka,vijayapura,karnataka,vijayapura,100
+karnataka,uttara kannada,karnataka,uttara kannada,100
+karnataka,udupi,karnataka,udupi,100
+karnataka,tumakuru,karnataka,tumakuru,100
+karnataka,shivamogga,karnataka,shivamogga,100
+karnataka,raichur,karnataka,raichur,100
+karnataka,mysuru,karnataka,mysuru,100
+karnataka,mandya,karnataka,mandya,100
+karnataka,koppal,karnataka,koppal,100
+karnataka,kolar,karnataka,kolar,100
+karnataka,kodagu,karnataka,kodagu,100
+karnataka,kalaburagi,karnataka,kalaburagi,100
+madhya pradesh,dhar,madhya pradesh,dhar,100
+madhya pradesh,dewas,madhya pradesh,dewas,100
+madhya pradesh,datia,madhya pradesh,datia,100
+madhya pradesh,damoh,madhya pradesh,damoh,100
+madhya pradesh,chhindwara,madhya pradesh,chhindwara,100
+madhya pradesh,chhatarpur,madhya pradesh,chhatarpur,100
+madhya pradesh,burhanpur,madhya pradesh,burhanpur,100
+madhya pradesh,bhopal,madhya pradesh,bhopal,100
+madhya pradesh,bhind,madhya pradesh,bhind,100
+madhya pradesh,betul,madhya pradesh,betul,100
+madhya pradesh,barwani,madhya pradesh,barwani,100
+madhya pradesh,balaghat,madhya pradesh,balaghat,100
+madhya pradesh,ashoknagar,madhya pradesh,ashoknagar,100
+madhya pradesh,anuppur,madhya pradesh,anuppur,100
+madhya pradesh,alirajpur,madhya pradesh,alirajpur,100
+madhya pradesh,agar malwa,madhya pradesh,agar malwa,100
+madhya pradesh,morena,madhya pradesh,morena,100
+madhya pradesh,mandsaur,madhya pradesh,mandsaur,100
+madhya pradesh,mandla,madhya pradesh,mandla,100
+madhya pradesh,katni,madhya pradesh,katni,100
+madhya pradesh,jhabua,madhya pradesh,jhabua,100
+madhya pradesh,jabalpur,madhya pradesh,jabalpur,100
+madhya pradesh,indore,madhya pradesh,indore,100
+madhya pradesh,harda,madhya pradesh,harda,100
+madhya pradesh,gwalior,madhya pradesh,gwalior,100
+madhya pradesh,guna,madhya pradesh,guna,100
+madhya pradesh,dindori,madhya pradesh,dindori,100
+madhya pradesh,sidhi,madhya pradesh,sidhi,100
+madhya pradesh,shivpuri,madhya pradesh,shivpuri,100
+madhya pradesh,sheopur,madhya pradesh,sheopur,100
+madhya pradesh,shajapur,madhya pradesh,shajapur,100
+madhya pradesh,shahdol,madhya pradesh,shahdol,100
+madhya pradesh,seoni,madhya pradesh,seoni,100
+madhya pradesh,sehore,madhya pradesh,sehore,100
+madhya pradesh,satna,madhya pradesh,satna,100
+madhya pradesh,sagar,madhya pradesh,sagar,100
+madhya pradesh,rewa,madhya pradesh,rewa,100
+madhya pradesh,ratlam,madhya pradesh,ratlam,100
+madhya pradesh,rajgarh,madhya pradesh,rajgarh,100
+madhya pradesh,raisen,madhya pradesh,raisen,100
+madhya pradesh,panna,madhya pradesh,panna,100
+madhya pradesh,neemuch,madhya pradesh,neemuch,100
+maharashtra,gadchiroli,maharashtra,gadchiroli,100
+maharashtra,dhule,maharashtra,dhule,100
+maharashtra,chandrapur,maharashtra,chandrapur,100
+maharashtra,buldhana,maharashtra,buldhana,100
+maharashtra,bhandara,maharashtra,bhandara,100
+maharashtra,beed,maharashtra,beed,100
+maharashtra,amravati,maharashtra,amravati,100
+maharashtra,akola,maharashtra,akola,100
+madhya pradesh,vidisha,madhya pradesh,vidisha,100
+madhya pradesh,umaria,madhya pradesh,umaria,100
+madhya pradesh,ujjain,madhya pradesh,ujjain,100
+madhya pradesh,tikamgarh,madhya pradesh,tikamgarh,100
+madhya pradesh,singrauli,madhya pradesh,singrauli,100
+maharashtra,sangli,maharashtra,sangli,100
+maharashtra,ratnagiri,maharashtra,ratnagiri,100
+maharashtra,raigad,maharashtra,raigad,100
+maharashtra,pune,maharashtra,pune,100
+maharashtra,parbhani,maharashtra,parbhani,100
+maharashtra,palghar,maharashtra,palghar,100
+maharashtra,nashik,maharashtra,nashik,100
+maharashtra,nandurbar,maharashtra,nandurbar,100
+maharashtra,nanded,maharashtra,nanded,100
+maharashtra,nagpur,maharashtra,nagpur,100
+maharashtra,latur,maharashtra,latur,100
+maharashtra,kolhapur,maharashtra,kolhapur,100
+maharashtra,jalna,maharashtra,jalna,100
+maharashtra,jalgaon,maharashtra,jalgaon,100
+maharashtra,hingoli,maharashtra,hingoli,100
+maharashtra,gondia,maharashtra,gondia,100
+meghalaya,south west khasi hills,meghalaya,south west khasi hills,100
+meghalaya,south west garo hills,meghalaya,south west garo hills,100
+meghalaya,south garo hills,meghalaya,south garo hills,100
+meghalaya,ri bhoi,meghalaya,ri bhoi,100
+meghalaya,north garo hills,meghalaya,north garo hills,100
+meghalaya,east khasi hills,meghalaya,east khasi hills,100
+meghalaya,east jaintia hills,meghalaya,east jaintia hills,100
+meghalaya,east garo hills,meghalaya,east garo hills,100
+maharashtra,yavatmal,maharashtra,yavatmal,100
+maharashtra,washim,maharashtra,washim,100
+maharashtra,wardha,maharashtra,wardha,100
+maharashtra,thane,maharashtra,thane,100
+maharashtra,solapur,maharashtra,solapur,100
+maharashtra,sindhudurg,maharashtra,sindhudurg,100
+maharashtra,satara,maharashtra,satara,100
+chhattisgarh,balod,chhattisgarh,balod,100
+bihar,vaishali,bihar,vaishali,100
+bihar,supaul,bihar,supaul,100
+bihar,siwan,bihar,siwan,100
+bihar,sitamarhi,bihar,sitamarhi,100
+bihar,sheohar,bihar,sheohar,100
+bihar,sheikhpura,bihar,sheikhpura,100
+bihar,saran,bihar,saran,100
+bihar,samastipur,bihar,samastipur,100
+bihar,saharsa,bihar,saharsa,100
+bihar,rohtas,bihar,rohtas,100
+bihar,purnia,bihar,purnia,100
+bihar,purbi champaran,bihar,purbi champaran,100
+bihar,patna,bihar,patna,100
+nagaland,dimapur,nagaland,dimapur,100
+mizoram,serchhip,mizoram,serchhip,100
+mizoram,mamit,mizoram,mamit,100
+mizoram,lunglei,mizoram,lunglei,100
+mizoram,lawngtlai,mizoram,lawngtlai,100
+mizoram,kolasib,mizoram,kolasib,100
+mizoram,champhai,mizoram,champhai,100
+mizoram,aizawl,mizoram,aizawl,100
+meghalaya,west khasi hills,meghalaya,west khasi hills,100
+meghalaya,west jaintia hills,meghalaya,west jaintia hills,100
+meghalaya,west garo hills,meghalaya,west garo hills,100
+odisha,dhenkanal,odisha,dhenkanal,100
+odisha,deogarh,odisha,deogarh,100
+nagaland,zunheboto,nagaland,zunheboto,100
+nagaland,wokha,nagaland,wokha,100
+nagaland,tuensang,nagaland,tuensang,100
+nagaland,phek,nagaland,phek,100
+nagaland,peren,nagaland,peren,100
+nagaland,mon,nagaland,mon,100
+nagaland,mokokchung,nagaland,mokokchung,100
+nagaland,longleng,nagaland,longleng,100
+nagaland,kohima,nagaland,kohima,100
+nagaland,kiphire,nagaland,kiphire,100
+punjab,fazilka,punjab,fazilka,100
+punjab,fatehgarh sahib,punjab,fatehgarh sahib,100
+punjab,faridkot,punjab,faridkot,100
+punjab,bathinda,punjab,bathinda,100
+punjab,barnala,punjab,barnala,100
+punjab,amritsar,punjab,amritsar,100
+puducherry,karaikal,puducherry,karaikal,100
+odisha,sambalpur,odisha,sambalpur,100
+odisha,puri,odisha,puri,100
+odisha,nayagarh,odisha,nayagarh,100
+odisha,nabarangpur,odisha,nabarangpur,100
+odisha,koraput,odisha,koraput,100
+odisha,kalahandi,odisha,kalahandi,100
+odisha,ganjam,odisha,ganjam,100
+rajasthan,baran,rajasthan,baran,100
+rajasthan,banswara,rajasthan,banswara,100
+rajasthan,alwar,rajasthan,alwar,100
+rajasthan,ajmer,rajasthan,ajmer,100
+punjab,sri muktsar sahib,punjab,sri muktsar sahib,100
+punjab,shahid bhagat singh nagar,punjab,shahid bhagat singh nagar,100
+punjab,sangrur,punjab,sangrur,100
+punjab,s a s nagar,punjab,s a s nagar,100
+punjab,rupnagar,punjab,rupnagar,100
+punjab,patiala,punjab,patiala,100
+punjab,moga,punjab,moga,100
+punjab,mansa,punjab,mansa,100
+punjab,ludhiana,punjab,ludhiana,100
+punjab,kapurthala,punjab,kapurthala,100
+punjab,gurdaspur,punjab,gurdaspur,100
+rajasthan,jaipur,rajasthan,jaipur,100
+rajasthan,hanumangarh,rajasthan,hanumangarh,100
+rajasthan,ganganagar,rajasthan,ganganagar,100
+rajasthan,dungarpur,rajasthan,dungarpur,100
+rajasthan,dholpur,rajasthan,dholpur,100
+rajasthan,dausa,rajasthan,dausa,100
+rajasthan,churu,rajasthan,churu,100
+rajasthan,chittorgarh,rajasthan,chittorgarh,100
+rajasthan,bundi,rajasthan,bundi,100
+rajasthan,bikaner,rajasthan,bikaner,100
+rajasthan,bhilwara,rajasthan,bhilwara,100
+rajasthan,bharatpur,rajasthan,bharatpur,100
+rajasthan,barmer,rajasthan,barmer,100
+rajasthan,sawai madhopur,rajasthan,sawai madhopur,100
+rajasthan,rajsamand,rajasthan,rajsamand,100
+rajasthan,pratapgarh,rajasthan,pratapgarh,100
+rajasthan,pali,rajasthan,pali,100
+rajasthan,nagaur,rajasthan,nagaur,100
+rajasthan,kota,rajasthan,kota,100
+rajasthan,karauli,rajasthan,karauli,100
+rajasthan,jodhpur,rajasthan,jodhpur,100
+rajasthan,jhunjhunu,rajasthan,jhunjhunu,100
+rajasthan,jhalawar,rajasthan,jhalawar,100
+rajasthan,jalore,rajasthan,jalore,100
+rajasthan,jaisalmer,rajasthan,jaisalmer,100
+bihar,pashchim champaran,bihar,pashchim champaran,100
+bihar,nawada,bihar,nawada,100
+bihar,nalanda,bihar,nalanda,100
+bihar,muzaffarpur,bihar,muzaffarpur,100
+bihar,munger,bihar,munger,100
+bihar,madhubani,bihar,madhubani,100
+bihar,madhepura,bihar,madhepura,100
+bihar,lakhisarai,bihar,lakhisarai,100
+bihar,kishanganj,bihar,kishanganj,100
+bihar,khagaria,bihar,khagaria,100
+bihar,katihar,bihar,katihar,100
+bihar,kaimur bhabua,bihar,kaimur bhabua,100
+bihar,jehanabad,bihar,jehanabad,100
+bihar,jamui,bihar,jamui,100
+bihar,gopalganj,bihar,gopalganj,100
+bihar,gaya,bihar,gaya,100
+tamil nadu,dindigul,tamil nadu,dindigul,100
+tamil nadu,dharmapuri,tamil nadu,dharmapuri,100
+tamil nadu,cuddalore,tamil nadu,cuddalore,100
+tamil nadu,coimbatore,tamil nadu,coimbatore,100
+tamil nadu,ariyalur,tamil nadu,ariyalur,100
+rajasthan,udaipur,rajasthan,udaipur,100
+rajasthan,tonk,rajasthan,tonk,100
+rajasthan,sirohi,rajasthan,sirohi,100
+rajasthan,sikar,rajasthan,sikar,100
+tamil nadu,sivaganga,tamil nadu,sivaganga,100
+tamil nadu,salem,tamil nadu,salem,100
+tamil nadu,ramanathapuram,tamil nadu,ramanathapuram,100
+tamil nadu,pudukkottai,tamil nadu,pudukkottai,100
+tamil nadu,perambalur,tamil nadu,perambalur,100
+tamil nadu,namakkal,tamil nadu,namakkal,100
+tamil nadu,nagapattinam,tamil nadu,nagapattinam,100
+tamil nadu,madurai,tamil nadu,madurai,100
+tamil nadu,krishnagiri,tamil nadu,krishnagiri,100
+tamil nadu,karur,tamil nadu,karur,100
+tamil nadu,kanniyakumari,tamil nadu,kanniyakumari,100
+tamil nadu,erode,tamil nadu,erode,100
+tripura,dhalai,tripura,dhalai,100
+tamil nadu,virudhunagar,tamil nadu,virudhunagar,100
+tamil nadu,vellore,tamil nadu,vellore,100
+tamil nadu,tiruvannamalai,tamil nadu,tiruvannamalai,100
+tamil nadu,tiruppur,tamil nadu,tiruppur,100
+tamil nadu,tirunelveli,tamil nadu,tirunelveli,100
+tamil nadu,tiruchirappalli,tamil nadu,tiruchirappalli,100
+tamil nadu,thiruvarur,tamil nadu,thiruvarur,100
+tamil nadu,thiruvallur,tamil nadu,thiruvallur,100
+tamil nadu,theni,tamil nadu,theni,100
+tamil nadu,the nilgiris,tamil nadu,the nilgiris,100
+tamil nadu,thanjavur,tamil nadu,thanjavur,100
+bihar,darbhanga,bihar,darbhanga,100
+bihar,buxar,bihar,buxar,100
+bihar,bhojpur,bihar,bhojpur,100
+bihar,bhagalpur,bihar,bhagalpur,100
+bihar,begusarai,bihar,begusarai,100
+bihar,banka,bihar,banka,100
+bihar,aurangabad,bihar,aurangabad,100
+bihar,arwal,bihar,arwal,100
+bihar,araria,bihar,araria,100
+assam,udalguri,assam,udalguri,100
+assam,sonitpur,assam,sonitpur,100
+assam,nagaon,assam,nagaon,100
+assam,marigaon,assam,marigaon,100
+assam,kokrajhar,assam,kokrajhar,100
+assam,karbi anglong,assam,karbi anglong,100
+uttar pradesh,baghpat,uttar pradesh,baghpat,100
+uttar pradesh,azamgarh,uttar pradesh,azamgarh,100
+uttar pradesh,ayodhya,uttar pradesh,ayodhya,100
+uttar pradesh,auraiya,uttar pradesh,auraiya,100
+uttar pradesh,amethi,uttar pradesh,amethi,100
+uttar pradesh,ambedkar nagar,uttar pradesh,ambedkar nagar,100
+uttar pradesh,aligarh,uttar pradesh,aligarh,100
+uttar pradesh,agra,uttar pradesh,agra,100
+tripura,west tripura,tripura,west tripura,100
+tripura,unakoti,tripura,unakoti,100
+tripura,south tripura,tripura,south tripura,100
+tripura,sepahijala,tripura,sepahijala,100
+tripura,north tripura,tripura,north tripura,100
+tripura,khowai,tripura,khowai,100
+tripura,gomati,tripura,gomati,100
+uttar pradesh,etawah,uttar pradesh,etawah,100
+uttar pradesh,etah,uttar pradesh,etah,100
+uttar pradesh,deoria,uttar pradesh,deoria,100
+uttar pradesh,chitrakoot,uttar pradesh,chitrakoot,100
+uttar pradesh,chandauli,uttar pradesh,chandauli,100
+uttar pradesh,bulandshahr,uttar pradesh,bulandshahr,100
+uttar pradesh,budaun,uttar pradesh,budaun,100
+uttar pradesh,bijnor,uttar pradesh,bijnor,100
+uttar pradesh,bhadohi,uttar pradesh,bhadohi,100
+uttar pradesh,basti,uttar pradesh,basti,100
+uttar pradesh,bareilly,uttar pradesh,bareilly,100
+uttar pradesh,banda,uttar pradesh,banda,100
+uttar pradesh,balrampur,uttar pradesh,balrampur,100
+uttar pradesh,ballia,uttar pradesh,ballia,100
+uttar pradesh,bahraich,uttar pradesh,bahraich,100
+uttar pradesh,kannauj,uttar pradesh,kannauj,100
+uttar pradesh,jhansi,uttar pradesh,jhansi,100
+uttar pradesh,jaunpur,uttar pradesh,jaunpur,100
+uttar pradesh,jalaun,uttar pradesh,jalaun,100
+uttar pradesh,hathras,uttar pradesh,hathras,100
+uttar pradesh,hardoi,uttar pradesh,hardoi,100
+uttar pradesh,hapur,uttar pradesh,hapur,100
+uttar pradesh,hamirpur,uttar pradesh,hamirpur,100
+uttar pradesh,gorakhpur,uttar pradesh,gorakhpur,100
+uttar pradesh,gonda,uttar pradesh,gonda,100
+uttar pradesh,ghazipur,uttar pradesh,ghazipur,100
+uttar pradesh,ghaziabad,uttar pradesh,ghaziabad,100
+uttar pradesh,gautam buddha nagar,uttar pradesh,gautam buddha nagar,100
+uttar pradesh,firozabad,uttar pradesh,firozabad,100
+uttar pradesh,fatehpur,uttar pradesh,fatehpur,100
+uttar pradesh,farrukhabad,uttar pradesh,farrukhabad,100
+uttar pradesh,moradabad,uttar pradesh,moradabad,100
+uttar pradesh,mirzapur,uttar pradesh,mirzapur,100
+uttar pradesh,meerut,uttar pradesh,meerut,100
+uttar pradesh,mau,uttar pradesh,mau,100
+uttar pradesh,mathura,uttar pradesh,mathura,100
+uttar pradesh,mainpuri,uttar pradesh,mainpuri,100
+uttar pradesh,mahoba,uttar pradesh,mahoba,100
+uttar pradesh,lucknow,uttar pradesh,lucknow,100
+uttar pradesh,lalitpur,uttar pradesh,lalitpur,100
+uttar pradesh,kaushambi,uttar pradesh,kaushambi,100
+uttar pradesh,kasganj,uttar pradesh,kasganj,100
+uttar pradesh,kanpur nagar,uttar pradesh,kanpur nagar,100
+uttar pradesh,kanpur dehat,uttar pradesh,kanpur dehat,100
+uttar pradesh,sultanpur,uttar pradesh,sultanpur,100
+uttar pradesh,sonbhadra,uttar pradesh,sonbhadra,100
+uttar pradesh,sitapur,uttar pradesh,sitapur,100
+uttar pradesh,shamli,uttar pradesh,shamli,100
+uttar pradesh,shahjahanpur,uttar pradesh,shahjahanpur,100
+uttar pradesh,sambhal,uttar pradesh,sambhal,100
+uttar pradesh,saharanpur,uttar pradesh,saharanpur,100
+uttar pradesh,rampur,uttar pradesh,rampur,100
+uttar pradesh,rae bareli,uttar pradesh,rae bareli,100
+uttar pradesh,prayagraj,uttar pradesh,prayagraj,100
+uttar pradesh,pratapgarh,uttar pradesh,pratapgarh,100
+uttar pradesh,pilibhit,uttar pradesh,pilibhit,100
+uttar pradesh,muzaffarnagar,uttar pradesh,muzaffarnagar,100
+west bengal,alipurduar,west bengal,alipurduar,100
+uttarakhand,tehri garhwal,uttarakhand,tehri garhwal,100
+uttarakhand,pithoragarh,uttarakhand,pithoragarh,100
+uttarakhand,pauri garhwal,uttarakhand,pauri garhwal,100
+uttarakhand,nainital,uttarakhand,nainital,100
+uttarakhand,haridwar,uttarakhand,haridwar,100
+uttarakhand,dehradun,uttarakhand,dehradun,100
+uttarakhand,champawat,uttarakhand,champawat,100
+uttarakhand,chamoli,uttarakhand,chamoli,100
+uttarakhand,bageshwar,uttarakhand,bageshwar,100
+uttarakhand,almora,uttarakhand,almora,100
+uttar pradesh,varanasi,uttar pradesh,varanasi,100
+uttar pradesh,unnao,uttar pradesh,unnao,100
+assam,kamrup,assam,kamrup,100
+assam,jorhat,assam,jorhat,100
+assam,hailakandi,assam,hailakandi,100
+assam,golaghat,assam,golaghat,100
+assam,goalpara,assam,goalpara,100
+assam,dhubri,assam,dhubri,100
+assam,dhemaji,assam,dhemaji,100
+assam,darrang,assam,darrang,100
+assam,cachar,assam,cachar,100
+assam,barpeta,assam,barpeta,100
+assam,baksa,assam,baksa,100
+arunachal pradesh,west siang,arunachal pradesh,west siang,100
+arunachal pradesh,west kameng,arunachal pradesh,west kameng,100
+arunachal pradesh,upper subansiri,arunachal pradesh,upper subansiri,100
+arunachal pradesh,upper siang,arunachal pradesh,upper siang,100
+arunachal pradesh,tirap,arunachal pradesh,tirap,100
+west bengal,nadia,west bengal,nadia,100
+west bengal,murshidabad,west bengal,murshidabad,100
+west bengal,kalimpong,west bengal,kalimpong,100
+west bengal,jhargram,west bengal,jhargram,100
+west bengal,jalpaiguri,west bengal,jalpaiguri,100
+west bengal,howrah,west bengal,howrah,100
+west bengal,hooghly,west bengal,hooghly,100
+west bengal,darjeeling,west bengal,darjeeling,100
+west bengal,birbhum,west bengal,birbhum,100
+west bengal,bankura,west bengal,bankura,100
+assam,lakhimpur,assam,lakhimpur,100
+assam,kamrup metro,assam,kamrup metro,100
+assam,dima hasao,assam,dima hasao,100
+assam,dibrugarh,assam,dibrugarh,100
+assam,chirang,assam,chirang,100
+assam,bongaigaon,assam,bongaigaon,100
+west bengal,purulia,west bengal,purulia,100
+west bengal,purba bardhaman,west bengal,purba bardhaman,100
+kerala,palakkad,kerala,palakkad,100
+kerala,malappuram,kerala,malappuram,100
+kerala,kozhikode,kerala,kozhikode,100
+kerala,kottayam,kerala,kottayam,100
+kerala,kollam,kerala,kollam,100
+kerala,kasaragod,kerala,kasaragod,100
+kerala,kannur,kerala,kannur,100
+kerala,idukki,kerala,idukki,100
+kerala,ernakulam,kerala,ernakulam,100
+kerala,alappuzha,kerala,alappuzha,100
+assam,tinsukia,assam,tinsukia,100
+assam,sivasagar,assam,sivasagar,100
+assam,nalbari,assam,nalbari,100
+arunachal pradesh,tawang,arunachal pradesh,tawang,100
+arunachal pradesh,siang,arunachal pradesh,siang,100
+arunachal pradesh,papum pare,arunachal pradesh,papum pare,100
+arunachal pradesh,namsai,arunachal pradesh,namsai,100
+arunachal pradesh,lower subansiri,arunachal pradesh,lower subansiri,100
+arunachal pradesh,lower dibang valley,arunachal pradesh,lower dibang valley,100
+arunachal pradesh,longding,arunachal pradesh,longding,100
+arunachal pradesh,lohit,arunachal pradesh,lohit,100
+arunachal pradesh,kurung kumey,arunachal pradesh,kurung kumey,100
+arunachal pradesh,kra daadi,arunachal pradesh,kra daadi,100
+arunachal pradesh,east siang,arunachal pradesh,east siang,100
+arunachal pradesh,east kameng,arunachal pradesh,east kameng,100
+odisha,gajapati,odisha,gajapati,100
+odisha,cuttack,odisha,cuttack,100
+odisha,boudh,odisha,boudh,100
+odisha,bhadrak,odisha,bhadrak,100
+odisha,bargarh,odisha,bargarh,100
+odisha,baleshwar,odisha,baleshwar,100
+odisha,balangir,odisha,balangir,100
+manipur,churachandpur,manipur,churachandpur,100
+kerala,wayanad,kerala,wayanad,100
+kerala,thrissur,kerala,thrissur,100
+kerala,thiruvananthapuram,kerala,thiruvananthapuram,100
+kerala,pathanamthitta,kerala,pathanamthitta,100
+punjab,pathankot,punjab,pathankot,100
+punjab,jalandhar,punjab,jalandhar,100
+punjab,hoshiarpur,punjab,hoshiarpur,100
+odisha,sundargarh,odisha,sundargarh,100
+odisha,sonepur,odisha,sonepur,100
+odisha,rayagada,odisha,rayagada,100
+odisha,nuapada,odisha,nuapada,100
+odisha,mayurbhanj,odisha,mayurbhanj,100
+odisha,malkangiri,odisha,malkangiri,100
+odisha,khordha,odisha,khordha,100
+odisha,kendujhar,odisha,kendujhar,100
+odisha,kendrapara,odisha,kendrapara,100
+odisha,kandhamal,odisha,kandhamal,100
+odisha,jharsuguda,odisha,jharsuguda,100
+odisha,jagatsinghapur,odisha,jagatsinghapur,100
+telangana,mancherial,telangana,mancherial,100
+telangana,mahabubnagar,telangana,mahabubnagar,100
+telangana,mahabubabad,telangana,mahabubabad,100
+telangana,kumuram bheem asifabad,telangana,kumuram bheem asifabad,100
+telangana,khammam,telangana,khammam,100
+telangana,karimnagar,telangana,karimnagar,100
+telangana,kamareddy,telangana,kamareddy,100
+telangana,jogulamba gadwal,telangana,jogulamba gadwal,100
+telangana,jayashankar bhupalapally,telangana,jayashankar bhupalapally,100
+telangana,jangoan,telangana,jangoan,100
+telangana,jagitial,telangana,jagitial,100
+telangana,bhadradri kothagudem,telangana,bhadradri kothagudem,100
+telangana,adilabad,telangana,adilabad,100
+punjab,tarn taran,punjab,tarn taran,100
+arunachal pradesh,dibang valley,arunachal pradesh,dibang valley,100
+arunachal pradesh,changlang,arunachal pradesh,changlang,100
+arunachal pradesh,anjaw,arunachal pradesh,anjaw,100
+andhra pradesh,west godavari,andhra pradesh,west godavari,100
+andhra pradesh,vizianagaram,andhra pradesh,vizianagaram,100
+andhra pradesh,srikakulam,andhra pradesh,srikakulam,100
+andhra pradesh,prakasam,andhra pradesh,prakasam,100
+telangana,yadadri bhuvanagiri,telangana,yadadri bhuvanagiri,100
+andaman and nicobar islands,nicobars,andaman and nicobar islands,nicobars,100

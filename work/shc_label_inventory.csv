@@ -1,0 +1,30 @@
+nutrient_name,nutrient_level,value
+Boron,Deficient,5059331
+Boron,Sufficient,6281116
+Copper,Deficient,660445
+Copper,Sufficient,12280533
+Electrical Conductivity,Non Saline,12513073
+Electrical Conductivity,Saline,585372
+Iron,Deficient,3129353
+Iron,Sufficient,9856722
+Manganese,Deficient,1642507
+Manganese,Sufficient,11343176
+Nitrogen,High,685519
+Nitrogen,Low,7279754
+Nitrogen,Medium,3415899
+Organic Carbon,High,3033251
+Organic Carbon,Low,6363654
+Organic Carbon,Medium,3738816
+Phosphorus,High,5884036
+Phosphorus,Low,1787210
+Phosphorus,Medium,5429753
+Potassium,High,4401380
+Potassium,Low,1801861
+Potassium,Medium,6908189
+Soil Ph,Acidic,1515895
+Soil Ph,Alkaline,308179
+Soil Ph,Neutral,11304210
+Sulphur,Deficient,3115114
+Sulphur,Sufficient,9625469
+Zinc,Deficient,4536030
+Zinc,Sufficient,8437990

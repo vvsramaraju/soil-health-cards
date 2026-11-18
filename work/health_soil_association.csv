@@ -1,0 +1,37 @@
+soil_nutrient,health_indicator,districts,rho_raw,rho_within_state,p_within,q_BH
+Boron,anaemia_pw,567,0.0667,-0.0355,0.3989,0.8163
+Boron,lbw,561,0.1293,-0.0027,0.9497,0.964
+Boron,sam_per_1000,561,0.0637,0.0401,0.3432,0.8163
+Copper,anaemia_pw,612,0.0554,0.0241,0.552,0.8163
+Copper,lbw,604,0.0202,0.0549,0.1779,0.8163
+Copper,sam_per_1000,606,0.0713,0.0251,0.5378,0.8163
+Electrical Conductivity,anaemia_pw,621,0.0493,-0.0149,0.711,0.926
+Electrical Conductivity,lbw,613,0.0047,-0.0348,0.3899,0.8163
+Electrical Conductivity,sam_per_1000,615,0.0737,0.0368,0.3621,0.8163
+Iron,anaemia_pw,614,0.2206,0.0268,0.507,0.8163
+Iron,lbw,606,-0.068,-0.0442,0.277,0.8163
+Iron,sam_per_1000,608,0.1539,-0.0233,0.5669,0.8163
+Manganese,anaemia_pw,614,0.1034,0.0507,0.2097,0.8163
+Manganese,lbw,606,-0.1164,0.0485,0.2336,0.8163
+Manganese,sam_per_1000,608,-0.0734,0.06,0.1393,0.8163
+Nitrogen,anaemia_pw,555,0.1256,-0.0201,0.6363,0.881
+Nitrogen,lbw,547,0.0959,-0.0088,0.8374,0.9282
+Nitrogen,sam_per_1000,549,0.0501,-0.0889,0.0372,0.6697
+Organic Carbon,anaemia_pw,626,0.1639,-0.0116,0.7717,0.926
+Organic Carbon,lbw,618,0.1155,-0.061,0.1296,0.8163
+Organic Carbon,sam_per_1000,620,0.0571,-0.0539,0.1805,0.8163
+Phosphorus,anaemia_pw,626,0.0668,0.0379,0.3435,0.8163
+Phosphorus,lbw,618,-0.0021,-0.0018,0.964,0.964
+Phosphorus,sam_per_1000,620,0.0593,0.0421,0.2949,0.8163
+Potassium,anaemia_pw,626,-0.061,-0.0327,0.4139,0.8163
+Potassium,lbw,618,-0.086,0.0266,0.5098,0.8163
+Potassium,sam_per_1000,620,-0.1655,-0.0098,0.808,0.9282
+Soil Ph,anaemia_pw,626,-0.078,-0.0025,0.9506,0.964
+Soil Ph,lbw,618,-0.0623,0.0237,0.5572,0.8163
+Soil Ph,sam_per_1000,620,-0.1346,0.014,0.7285,0.926
+Sulphur,anaemia_pw,602,-0.0325,-0.0414,0.3107,0.8163
+Sulphur,lbw,595,0.0172,-0.0292,0.4772,0.8163
+Sulphur,sam_per_1000,596,0.0319,-0.0077,0.8509,0.9282
+Zinc,anaemia_pw,614,0.1657,-0.0123,0.7611,0.926
+Zinc,lbw,606,0.1363,-0.0923,0.0231,0.6697
+Zinc,sam_per_1000,608,0.2209,-0.0435,0.2846,0.8163

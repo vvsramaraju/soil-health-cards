@@ -1,0 +1,30 @@
+nutrient_name,nutrient_level,is_def
+Boron,Deficient,True
+Boron,Sufficient,False
+Copper,Deficient,True
+Copper,Sufficient,False
+Electrical Conductivity,Non Saline,False
+Electrical Conductivity,Saline,True
+Iron,Deficient,True
+Iron,Sufficient,False
+Manganese,Deficient,True
+Manganese,Sufficient,False
+Nitrogen,High,False
+Nitrogen,Low,True
+Nitrogen,Medium,False
+Organic Carbon,High,False
+Organic Carbon,Low,True
+Organic Carbon,Medium,False
+Phosphorus,High,False
+Phosphorus,Low,True
+Phosphorus,Medium,False
+Potassium,High,False
+Potassium,Low,True
+Potassium,Medium,False
+Soil Ph,Acidic,True
+Soil Ph,Alkaline,True
+Soil Ph,Neutral,False
+Sulphur,Deficient,True
+Sulphur,Sufficient,False
+Zinc,Deficient,True
+Zinc,Sufficient,False
